@@ -1,5 +1,7 @@
 package boardgame;
 
+import chess.ChessPosition;
+
 public class Position {
 
 	
@@ -24,6 +26,7 @@ public class Position {
 	public int getColumn() {
 		return column;
 	}
+	
 	
 	public void setValues(int row, int column) {
 		
