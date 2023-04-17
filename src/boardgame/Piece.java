@@ -19,7 +19,7 @@ public class Piece  {
 		return board;
 	}
 	
-	Piece[][] possibleMoves() {
+	Piece possibleMoves() {
 		return null;
 	}
 
